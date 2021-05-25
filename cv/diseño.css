@@ -1,0 +1,41 @@
+
+body
+{
+    background-color: #c4d6d6; 
+}
+section
+{
+    background-color: #d5dbd4;
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 5%;
+}
+div
+{
+    background-color: #e2ded2;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto; 
+}
+fieldset
+{
+    margin-bottom: 12px;
+}
+legend
+{
+    background-color: #ffe7cd;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+#img1
+{
+    border-radius: 50%;
+    margin-bottom: 12px;
+    margin-right: 12px;
+    float: left;
+}
+aside
+{
+}
